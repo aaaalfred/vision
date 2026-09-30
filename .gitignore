@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.dart_tool/
+.flutter-plugins*
+build/
+coverage/
+.env*
+!.env.example
+
